@@ -1,0 +1,1 @@
+# django_updated_project
